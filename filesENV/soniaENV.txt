@@ -1,0 +1,12 @@
+NEXT_PUBLIC_P19=https://buy.stripe.com/3csdUj9tSa046ZibII
+NEXT_PUBLIC_P32=https://buy.stripe.com/3cs17xcG48W03N6145
+NEXT_PUBLIC_P79=https://buy.stripe.com/5kA2bB7lK0pu4Ra28a
+NEXT_PUBLIC_P52=https://buy.stripe.com/3cs17xcG48W03N6145
+NEXT_PUBLIC_P130=https://buy.stripe.com/3cs17xcG48W03N6145
+NEXT_PUBLIC_STORE_NAME=By.Sonia
+NEXT_PUBLIC_LOGO=https://res.cloudinary.com/dtv2k2gu1/image/upload/v1744121864/wh6haiuabmuyaab9mm3u.png
+NEXT_PUBLIC_EMAIL=soniaalvarez3493@gmail.com
+NEXT_PUBLIC_PRIMARYCOLOR="#613EE6"
+NEXT_PUBLIC_PHOTO=https://res.cloudinary.com/dtv2k2gu1/image/upload/v1744121864/wh6haiuabmuyaab9mm3u.png
+NEXT_PUBLIC_BACKGROUND_IMAGE=https://res.cloudinary.com/dtv2k2gu1/image/upload/v1744112015/q9z2wmnehcfv4ptqokkz.png
+NEXT_PUBLIC_MADE_BY=Sonia

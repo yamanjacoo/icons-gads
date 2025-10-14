@@ -1,0 +1,11 @@
+NEXT_PUBLIC_P5=https://buy.stripe.com/6oEeXHdho9gtcVi000
+NEXT_PUBLIC_P32=https://buy.stripe.com/8wMbLv3GOdwJ2gE145
+NEXT_PUBLIC_P79=https://buy.stripe.com/5kAcPzdho9gt08waEH
+NEXT_PUBLIC_P52=https://buy.stripe.com/bIYaHrcdk50ddZmaEG
+NEXT_PUBLIC_P130=https://buy.stripe.com/14kbLva5ccsF3kI6os
+NEXT_PUBLIC_STORE_NAME=Kolotos.Crafts
+NEXT_PUBLIC_EMAIL=kolotoskolotos@outlook.com
+NEXT_PUBLIC_PRIMARYCOLOR=
+NEXT_PUBLIC_PHOTO=https://res.cloudinary.com/dtv2k2gu1/image/upload/v1744228122/ChatGPT_Image_Apr_9_2025_08_48_34_PM_w6ke4e.png
+NEXT_PUBLIC_BACKGROUND_IMAGE=
+NEXT_PUBLIC_MADE_BY=George Kolotos

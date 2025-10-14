@@ -1,0 +1,12 @@
+NEXT_PUBLIC_P19=https://buy.stripe.com/3csdUj9tSa046ZibII
+NEXT_PUBLIC_P32=https://buy.stripe.com/3cs17xcG48W03N6145
+NEXT_PUBLIC_P79=https://buy.stripe.com/5kA2bB7lK0pu4Ra28a
+NEXT_PUBLIC_P52=https://buy.stripe.com/3cs17xcG48W03N6145
+NEXT_PUBLIC_P130=https://buy.stripe.com/3cs17xcG48W03N6145
+NEXT_PUBLIC_STORE_NAME=JohnIcons
+NEXT_PUBLIC_LOGO=https://res.cloudinary.com/dtv2k2gu1/image/upload/v1743982102/jj2zscndcsr6u4zyxj9x.png
+NEXT_PUBLIC_EMAIL=davidjohngabriel55@gmail.com
+NEXT_PUBLIC_PRIMARYCOLOR=
+NEXT_PUBLIC_PHOTO=https://res.cloudinary.com/dtv2k2gu1/image/upload/v1743982102/jj2zscndcsr6u4zyxj9x.png
+NEXT_PUBLIC_BACKGROUND_IMAGE=https://framerusercontent.com/images/LYfp18c9WugBTPimCI3nLzTfw.jpg
+NEXT_PUBLIC_MADE_BY=Philca Porter
